@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['pyCalculator.py'],
+a = Analysis(['pyCalculator.py', 'pyCalcArch'],
              pathex=['/home/andy/codingProjects/pyCalculator'],
              binaries=[],
              datas=[],
